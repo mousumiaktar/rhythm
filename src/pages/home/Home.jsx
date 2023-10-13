@@ -1,4 +1,5 @@
 import Distribute from "./Distribute";
+import DistributeOn from "./DistributeOn";
 import Hero from "./Hero";
 
 const Home = () => {
@@ -6,6 +7,7 @@ const Home = () => {
         <>
             <Hero />
             <Distribute />
+            <DistributeOn />
         </>
     );
 };
