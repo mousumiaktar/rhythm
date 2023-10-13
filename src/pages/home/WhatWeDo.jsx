@@ -1,6 +1,6 @@
 const WhatWeDo = () => {
     return (
-        <div className='container mx-auto mt-16'>
+        <div className='container mx-auto mt-20'>
             <div>
                 <div className='flex justify-center'>
                     <div>
