@@ -1,9 +1,11 @@
 import Distribute from "./Distribute";
+import Hero from "./Hero";
 
 const Home = () => {
     return (
         <>
-           <Distribute /> 
+            <Hero />
+            <Distribute />
         </>
     );
 };
