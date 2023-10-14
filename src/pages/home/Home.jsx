@@ -5,6 +5,7 @@ import Hero from "./Hero";
 import Plans from "./Plans";
 import Stores from "./Stores";
 import WhatWeDo from "./WhatWeDo";
+import WithoutCt from "./WithoutCt";
 
 const Home = () => {
     return (
@@ -16,6 +17,7 @@ const Home = () => {
             <WhatWeDo />
             <Featured />
             <Plans />
+            <WithoutCt />
         </>
     );
 };
