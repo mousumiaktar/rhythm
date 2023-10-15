@@ -1,3 +1,4 @@
+import BestMusic from "./BestMusic";
 import Distribute from "./Distribute";
 import DistributeOn from "./DistributeOn";
 import Featured from "./Featured";
@@ -22,6 +23,7 @@ const Home = () => {
             <WithoutCt />
             <MakeMoney />
             <MobileOperator />
+            <BestMusic />
         </>
     );
 };
