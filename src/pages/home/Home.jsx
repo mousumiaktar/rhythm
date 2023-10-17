@@ -1,4 +1,5 @@
 import BestMusic from "./BestMusic";
+import ClientList from "./ClientList";
 import Distribute from "./Distribute";
 import DistributeOn from "./DistributeOn";
 import Featured from "./Featured";
@@ -24,6 +25,7 @@ const Home = () => {
             <MakeMoney />
             <MobileOperator />
             <BestMusic />
+            <ClientList />
         </>
     );
 };
