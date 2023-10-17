@@ -7,6 +7,7 @@ import Featured from "./Featured";
 import Hero from "./Hero";
 import MakeMoney from "./MakeMoney";
 import MobileOperator from "./MobileOperator";
+import MusicDistribution from "./MusicDistribution";
 import Plans from "./Plans";
 import Stores from "./Stores";
 import WhatWeDo from "./WhatWeDo";
@@ -21,6 +22,7 @@ const Home = () => {
             <Stores />
             <WhatWeDo />
             <Featured />
+            <MusicDistribution />
             <Plans />
             <WithoutCt />
             <MakeMoney />
