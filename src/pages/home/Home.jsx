@@ -2,6 +2,7 @@ import BestMusic from "./BestMusic";
 import ClientList from "./ClientList";
 import Distribute from "./Distribute";
 import DistributeOn from "./DistributeOn";
+import Download from "./Download";
 import Featured from "./Featured";
 import Hero from "./Hero";
 import MakeMoney from "./MakeMoney";
@@ -26,6 +27,7 @@ const Home = () => {
             <MobileOperator />
             <BestMusic />
             <ClientList />
+            <Download />
         </>
     );
 };
