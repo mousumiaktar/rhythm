@@ -1,4 +1,5 @@
 import Home from "./pages/home/Home"
+import Footer from "./shared/Footer"
 import Navbar from "./shared/Navbar"
 
 function App() {
@@ -9,6 +10,7 @@ function App() {
       <div>
         <Navbar />
         <Home />
+        <Footer />
       </div>
     </>
   )
